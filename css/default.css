@@ -33,6 +33,17 @@ address{
     font-style: italic;
 }
 
+#lead{
+    border-top: #6fbb9a 1px dotted;
+    color: #333333;
+    text-align: center;
+}
+
+. greeting{
+    border-top: #6fbb9a 1px dotted;
+    color: #333333;
+    text-align: center;
+}
 
 a{
     color: #df4839;
