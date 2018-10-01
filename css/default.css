@@ -3,7 +3,7 @@
 body{
     background-color: #fbf9cc; 
 }
-h1{
+h1 span {
     font-size: 1.75em;
     color: #3399cc;
     text-align: center;
